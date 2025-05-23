@@ -3,7 +3,7 @@ Material didádico desenvolvido para a disciplina de Matemática Computacional I
 
 
 
-# Referências
+### Referências
 
 ARENALES, Selma; DAREZZO, Artur. Cálculo Numérico: aprendizagem com Apoio de Software. 2. ed. Porto Alegre: +A Educação - Cengage Learning Brasil, 2016.
 
