@@ -2,19 +2,33 @@
 Material didádico desenvolvido para a disciplina de Matemática Computacional I (UFSM00040) integrante dos currículos dos cursos de engenharia da Universidade Federal de Santa Maria. A disciplina possui carga horária da 30 horas e é ministrada em 15 encontros de 2 horas. O conteúdo é apresentado e desenvolvido em 12 aulas práticas e 3 atividades avaliativas. Os 12 notebooks seguintes foram desenvolvidos para serem utilizados nas aulas práticas em laboratório. Um notebook para cada aula seguindo a agenda: 
 
 Aula 1: Introdução à computação numérica e erros
+
 Aula 2: As abordagens numérica e analítica
+
 Aula 3: Erros absoluto e relativo
+
 Aula 4: Definição de funções e gráficos
+
 Aula 5: **Atividade avaliativa em aula**
+
 Aula 6: Localização de raízes e método da bisseção
+
 Aula 7: 25 Método do ponto fixo
+
 Aula 8: Método de Newton e das secantes
+
 Aula 9: Raízes de polinômios. Newton com Briot-Ruffini
+
 Aula 10: **Atividade avaliativa em aula**
+
 Aula 11: Derivação numérica e aplicações
+
 Aula 12: Integração numérica e aplicações
+
 Aula 13: Interpolação a partir de pontos: Lagrange
+
 Aula 14: Diferenças divididas e interpolação de Newton
+
 Aula 15: **Atividade avaliativa em aula**
 
 ### Referências
