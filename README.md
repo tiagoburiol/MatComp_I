@@ -13,7 +13,7 @@ Aula 5: **Atividade avaliativa em aula**
 
 Aula 6: Localização de raízes e método da bisseção
 
-Aula 7: 25 Método do ponto fixo
+Aula 7: Método do ponto fixo
 
 Aula 8: Método de Newton e das secantes
 
