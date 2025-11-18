@@ -27,6 +27,8 @@ CHAPRA, Steven C.; CANALE, Raymond P. Métodos numéricos para engenharia. 7. ed
 
 GUIDORIZZI, Hamilton L. Um Curso de Cálculo - Volume 1. 6. ed. Rio de Janeiro: LTC, 2018. 
 
+ROSSANT, C. IPython interactive computing and visualization cookbook: Over 100 hands-on recipes to sharpen your skills in high-performance numerical computing and data science in the jupyter notebook. Packt Publishing Ltd., 2018. ([↓](https://astra.nti.tul.cz/~jan.brezina/PAV_course/Cyrille%20Rossant-IPython%20Interactive%20Computing%20and%20Visualization%20Cookbook.pdf))
+
 STEWART, James; CLEGG, Daniel; WATSON, Saleem. Cálculo v.1. 6. ed. Porto Alegre: +A Educação - Cengage Learning Brasil, 2021. 
 
 STEWART, James; CLEGG, Daniel; WATSON, Saleem. Cálculo v.2. 6. ed. Porto Alegre: +A Educação - Cengage Learning Brasil, 2022. 
